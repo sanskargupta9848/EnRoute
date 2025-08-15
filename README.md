@@ -1,29 +1,23 @@
-# 🧠 NerdCrawler
+#  NerdCrawler
 
-![Beta Badge](https://img.shields.io/badge/Beta-V1.1-green?logoColor=%23FFFFFF&labelColor=%23000000&color=%233cdb00)
-![Website Status](https://img.shields.io/website?url=https%3A%2F%2Fap.projectkryptos.xyz%2F)
 
-![NerdCrawler Screenshot](image.png)
 
 **NerdCrawler** is a fully self-hosted search engine built completely from scratch — backend, frontend, and crawler.  
 No reliance on third-party APIs or search engines — just raw crawling and indexing power.
 
-🔗 **Live Demo:** [ap.projectkryptos.xyz](https://ap.projectkryptos.xyz)  
-📈 **Uptime:** [Kuma Uptime Monitor](https://kuma.projectkryptos.xyz/status/projectkryptos)
 
----
 
-## 🚀 Features
 
-- 🌐 Self-hosted backend powered by **Python Flask**
-- ⚛️ Frontend built with **React + TailwindCSS**
-- 🧭 Custom Python crawler indexing live websites
-- 🗃️ Database integration planned for future updates
-- 🎨 Modern UI with theming support
+## Features
 
----
+- Self-hosted backend powered by **Python Flask**
+- Frontend built with **React + TailwindCSS**
+- Custom Python crawler indexing live websites
+- Database integration planned for future updates
+- Modern UI with theming support
 
-## 🛠 Tech Stack
+
+## Tech Stack
 
 | Layer     | Technology                 |
 |-----------|----------------------------|
@@ -32,9 +26,8 @@ No reliance on third-party APIs or search engines — just raw crawling and inde
 | Crawler   | Custom Python system       |
 | Hosting   | 100% self-hosted           |
 
----
 
-## ⚙️ Getting Started
+## ⚙Getting Started
 
 To run NerdCrawler locally:
 
@@ -72,9 +65,8 @@ To run NerdCrawler locally:
      python main.py
      ```
 
----
 
-## 📁 Example `config.py`
+## Example `config.py`
 
 ```python
 # Example configuration file
@@ -86,18 +78,16 @@ CRAWLER_SETTINGS = {
 # Add API keys or DB credentials if required
 ```
 
----
 
-## 🧪 Status
+## Status
 
 **Version:** 1.1 Beta  
-✅ Fully working crawler & search engine  
-✅ Functional frontend with theming  
-🔄 Continuous updates & improvements coming soon
+Fully working crawler & search engine  
+Functional frontend with theming  
+Continuous updates & improvements coming soon
 
----
 
-## 🤝 Contributing
+## Contributing
 
 Contributions are welcome!  
 - Fork the repository  
@@ -106,9 +96,6 @@ Contributions are welcome!
 
 You can also open issues for bugs or suggestions.
 
----
 
-## 📜 License
 
-This project is licensed under the **MIT License**.  
-See the [LICENSE](LICENSE) file for details.
+
