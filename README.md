@@ -1,8 +1,8 @@
-#  NerdCrawler
+#  WebCrawler
 
 
 
-**NerdCrawler** is a fully self-hosted search engine built completely from scratch — backend, frontend, and crawler.  
+**WebCrawler** is a fully self-hosted search engine built completely from scratch — backend, frontend, and crawler.  
 No reliance on third-party APIs or search engines — just raw crawling and indexing power.
 
 
